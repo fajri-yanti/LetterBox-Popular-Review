@@ -87,7 +87,7 @@ The script includes error handling for:
 
 
 ## Database
-![Tabel letterbox]([http://url/to/img.png](https://github.com/fajri-yanti/LetterBox-Popular-Review/blob/main/letterbox.png))
+![Tabel letterbox](https://raw.githubusercontent.com/fajri-yanti/LetterBox-Popular-Review/main/letterbox.png)
 
 
 ## Limitations
