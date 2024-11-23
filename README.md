@@ -1,6 +1,6 @@
 # Letterboxd Review Scraper
 
-A Python script to scrape popular movie reviews from Letterboxd.com. This tool extracts review data including reviewer names, movie titles, ratings, review content, and like counts, then saves them to a CSV file.
+A Python script to scrape popular movie reviews from Letterboxd.com. This tool extracts review data including reviewer names, movie titles, ratings, review content, and like counts, then saves them to a CSV file and store to BigQuery.
 
 ## Features
 
