@@ -87,7 +87,7 @@ The script includes error handling for:
 
 
 ## Database
-
+![Tabel letterbox]([http://url/to/img.png](https://github.com/fajri-yanti/LetterBox-Popular-Review/blob/main/letterbox.png))
 
 
 ## Limitations
@@ -104,14 +104,6 @@ Potential enhancements:
 4. Additional metadata extraction
 5. Error logging
 
-
-## Legal Note
-
-Before using this scraper, make sure to:
-1. Check Letterboxd's robots.txt
-2. Review their terms of service
-3. Implement appropriate rate limiting
-4. Consider using their official API if available
 
 ## Contributing
 
