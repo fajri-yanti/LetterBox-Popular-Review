@@ -34,7 +34,7 @@ pip install sqlalchemy
 
 1. Clone this repository or download the script:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/fajri-yanti/LetterBox-Popular-Review
 cd webscrapiingletterbox
 ```
 
